@@ -1,3 +1,7 @@
+## Nama Kelompok : Gino Putra Widana
+##               : Muhammad Farhan Aprilianto
+
+
 # 🎯 Real-Time Object Detection System
 
 Professional object detection system menggunakan **YOLOv8** dan **OpenCV** untuk mendeteksi objek secara real-time dari kamera.
@@ -221,4 +225,6 @@ Jika mengalami masalah:
 
 ---
 
-**Dibuat dengan ❤️ menggunakan YOLOv8 & OpenCV**
+**Hasil Dari Program ini**
+![detection_20251230_150405](https://github.com/user-attachments/assets/62bfbb48-e709-4f40-9a2f-cc74f2877320)
+
